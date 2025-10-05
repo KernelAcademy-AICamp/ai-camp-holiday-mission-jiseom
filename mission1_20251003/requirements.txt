@@ -1,0 +1,7 @@
+bs4
+selenium
+ipykernel
+python-dotenv
+openai
+tqdm
+gradio
